@@ -14,3 +14,6 @@ function tampilkanNama(){
         </button>
  `;
 }
+function pesan() {
+    alert("Akan segera hadir");
+}
